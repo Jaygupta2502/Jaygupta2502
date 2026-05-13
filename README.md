@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Gupta</h1>
-<h3 align="center">Backend & Full Stack Developer | MERN • Spring Boot • Scalable Systems</h3>
+<h3 align="center">Backend & Full Stack Developer | MERN • Scalable Systems</h3>
 
 <p align="center">
 Passionate about building scalable backend systems, high-performance APIs, and full-stack applications that solve real-world problems.
