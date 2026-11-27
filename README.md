@@ -1,137 +1,71 @@
-<h1 align="center">Hi 👋, I'm Jay Gupta</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • Backend Engineer • Data Science Enthusiast
-</h3>
+<img src="assets/banner.svg" width="100%" alt="Jay Gupta engineering console with ASCII portrait" />
 
-<p align="center">
-Building scalable web applications, backend systems, AI-powered workflows, and automation solutions.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1000&color=52FF9C&center=true&vCenter=true&width=650&lines=Backend+Engineering;REST+APIs+%7C+RBAC+%7C+System+Design;Build.+Optimize.+Deploy." alt="Backend engineering" />
 
----
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-10291e?style=for-the-badge&logo=linkedin&logoColor=52ff9c)](https://www.linkedin.com/in/jay-gupta-68a41a290/) [![Email](https://img.shields.io/badge/EMAIL-10291e?style=for-the-badge&logo=gmail&logoColor=52ff9c)](mailto:jayakhileshgupta1@gmail.com) [![GitHub](https://img.shields.io/badge/GITHUB-10291e?style=for-the-badge&logo=github&logoColor=52ff9c)](https://github.com/Jaygupta2502)
 
-# 🚀 About Me
+</div>
 
-- 💻 Full Stack Developer focused on building scalable and efficient applications
-- 🧠 Interested in Backend Engineering, Data Science, AI Workflows, and Automation
-- ⚙️ Exploring AI automation tools like **n8n**, intelligent workflows, and scalable systems
-- 📚 Solved **400+ DSA problems** focused on logic building and optimization
-- 🏗️ Built projects involving:
-  - Role-Based Access Control (RBAC)
-  - REST APIs
-  - Authentication Systems
-  - Event Workflow Management
-  - Database Design & Optimization
-  - AI & Automation Concepts
-- 🌱 Currently learning:
-  - AI Automation
-  - n8n Workflows
-  - Redis Caching
-  - Scalable System Design
-  - Cloud & Deployment
-- 🤝 Open to:
-  - Internships
-  - Open Source Collaboration
-  - Backend / Full Stack / AI Automation Opportunities
+## `01 / WHOAMI`
 
----
+Backend-focused software developer pursuing B.Tech in Information Technology at MIT-ADT University, Pune. I build secure REST APIs, role-based systems and database-driven applications with a focus on performance and reliability.
 
-# 🛠️ Tech Stack
+<img src="assets/dashboard.svg" width="100%" alt="Engineering metrics: 800+ students, 15+ APIs, 30% faster response, 1000+ simulated users" />
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<img src="assets/profile-scan.svg" width="100%" alt="Education, research, leadership and engineering profile" />
 
-### Full Stack Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## `04 / TECH STACK`
 
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+| Layer | Technologies |
+|---|---|
+| Languages | Java · Python · JavaScript · SQL · C++ (basics) |
+| Backend | Node.js · Express.js · REST APIs · JWT · RBAC · Microservices concepts |
+| Frontend | React · HTML · CSS |
+| Data | MySQL · MongoDB · Indexing · Schema design |
+| DevOps | Docker · Kubernetes · GitHub Actions · Git · AWS/GCP/Azure (basics) |
+| Engineering | DSA · OOP · DBMS · OS · Networks · System Design · Testing |
 
-### Data Science & AI
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,nodejs,express,react,mongodb,mysql,docker,kubernetes,git,githubactions&theme=dark&perline=6" alt="Technology icons" />
+</div>
 
-### Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+## `05 / EXPERIENCE LOG`
 
----
+**Website Developer Intern — MIT-ADT University** · Jan–Jun 2025
+- Built and deployed a role-based event management platform for 500+ users.
+- Designed 15+ REST APIs and reduced average response time by 30%.
+- Implemented JWT, RBAC, database indexing and optimized queries.
 
-# 🌟 Featured Projects
+**Backend Developer Intern — MIT SAP** · Jul–Dec 2024
+- Built a MERN elective management application for 800+ students on the campus network.
+- Implemented Student, Coordinator and Support roles.
+- Automated Excel-based bulk onboarding and added server-side validation.
 
-## 🎯 Event Management System
-Scalable MERN-based platform with:
-- JWT Authentication
-- Role-Based Access Control
-- Venue Booking Workflow
-- Event Approval System
-- Analytics Dashboard
+## `06 / PROJECT REGISTRY`
+
+| Project | Engineering highlights |
+|---|---|
+| Career Advancement Scheme (CAS) | MERN backend · 100+ faculty · 9+ API-driven forms · RBAC · document uploads |
+| Scalable Event Booking | 1,000+ simulated concurrent users · caching · rate limiting · load testing |
+
+## `07 / GITHUB TELEMETRY`
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jaygupta2502&show_icons=true&hide_border=true&bg_color=07110e&title_color=52ff9c&icon_color=52ff9c&text_color=c9f7dc" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaygupta2502&layout=compact&hide_border=true&bg_color=07110e&title_color=52ff9c&text_color=c9f7dc" alt="Top languages" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jaygupta2502&bg_color=07110e&color=c9f7dc&line=52ff9c&point=ffffff&area=true&hide_border=true" alt="Contribution activity" />
+</div>
+
+## `08 / CREDENTIALS`
+
+- IEEE IGNITE-2026 — co-authored accepted research paper.
+- Technical Head — College Council.
+- 200+ DSA problems solved on LeetCode.
+- Docker & Kubernetes Masterclass — Coursera, Apr 2026.
+- Python Programming Certification — IIT Bombay.
+- IBM Data Science Professional Certificate — in progress.
 
 ---
-
-## 🏠 Bharat Search Property Platform
-Backend-focused property search platform featuring:
-- Optimized REST APIs
-- Advanced Search Functionality
-- Secure Authentication
-- Database Optimization
-
----
-
-## 🐍 120+ Python Projects
-Collection of automation tools, utilities, games, mini applications, and problem-solving projects built to strengthen programming and development fundamentals.
-
----
-
-## 🤖 AI & Automation Projects
-Currently building AI-powered automation workflows using:
-- n8n
-- APIs
-- AI integrations
-- intelligent workflow systems
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaygupta2502&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaygupta2502&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jaygupta2502&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/jay-gupta-68a41a290/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="mailto:jayakhileshgupta1@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-</p>
-
----
-
-# ⚡ Engineering Philosophy
-
-> I enjoy building scalable systems, intelligent workflows, and real-world applications that combine clean engineering with practical problem-solving.
+<div align="center"><code>END OF TRANSMISSION // KEEP BUILDING_</code></div>
