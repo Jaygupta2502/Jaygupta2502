@@ -18,16 +18,17 @@ Backend-focused software developer pursuing a **B.Tech in Information Technology
 
 ## Technical Skills
 
-| Layer | Technologies |
-|---|---|
-| Programming | Java · Python · JavaScript · SQL · C++ (basics) |
-| Backend | Node.js · Express.js · REST APIs · JWT · RBAC · Microservices concepts |
-| Database | MySQL · MongoDB · Indexing · Schema design · Query optimization |
-| DevOps | Docker · Kubernetes · GitHub Actions · Git |
-| Cloud | AWS · GCP · Azure (fundamentals) |
-| Frontend | React · HTML · CSS |
-| Fundamentals | DSA · OOP · DBMS · OS · Networks · System Design · Testing |
 
+| Domain | Technology icons | Expertise |
+|:--|:--|:--|
+| Programming | <img src="https://skillicons.dev/icons?i=java,python,js,cpp&theme=light" height="40" alt="Java, Python, JavaScript, C++"/> | Java, Python, JavaScript, SQL, C++ (basics) |
+| Backend | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" height="40" alt="Node.js, Express"/> | REST APIs, JWT, RBAC, Microservices concepts |
+| Databases | <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" height="40" alt="MySQL, MongoDB"/> | Schema design, indexing, query optimization |
+| DevOps | <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git&theme=light" height="40" alt="Docker, Kubernetes, GitHub Actions, Git"/> | Containers, CI/CD, version control |
+| Cloud | <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=light" height="40" alt="AWS, GCP, Azure"/> | Cloud fundamentals |
+| Frontend | <img src="https://skillicons.dev/icons?i=react,html,css&theme=light" height="40" alt="React, HTML, CSS"/> | React, HTML, CSS |
+
+**Engineering fundamentals:** DSA · OOP · DBMS · OS · Networks · System Design · Testing
 
 ---
 
